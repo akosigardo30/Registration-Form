@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.container-fluid {
+    background-color: rgba(0, 197, 247, 0.75);
+    padding: 10px;
+    color: black;
+    font-weight: 500;
+
+}
